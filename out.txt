@@ -1,2 +1,11 @@
-Hello, world. What we gonna do. Some more sent. Some more sent. Some more sent. What we gonna do.
-Hello, world. What we gonna do. Some more sent.
+Hello Hello Hello. Hello event Hello Hello.
+===========================
+
+Banned tokens: 
+Number of tokens: 0
+===========================
+===========================
+->->event
+Banned tokens: -572662307 -572662307 
+Number of tokens: 2
+===========================
